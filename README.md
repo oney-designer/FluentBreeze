@@ -10,7 +10,7 @@ A lot of work went into making the FluentBreeze theme work properly, and you're 
 
 See how simple it is to change the colors of the home folders:
 
-![Menu de Contexto](./docs/fluentbreeze.mp4)
+![Watch the video](./docs/fluentbreeze.mp4)
 
 ## Installation
 
